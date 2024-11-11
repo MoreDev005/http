@@ -1,0 +1,19 @@
+{
+  "name": "riru",
+  "version": "4.0.0",
+  "description": "wa bot md untuk anti viewonce",
+  "main": "fork.js",
+  "scripts": {
+    "start": "node fork.js"
+  },
+  "keywords": [
+    "wa",
+    "bot",
+    "viewonce"
+  ],
+  "author": "iwan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

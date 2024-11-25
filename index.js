@@ -5,7 +5,7 @@ const express = require('express');
 const app = express();
 
 // Set port untuk server
-const port = 3000;
+const port = 8000;
 
 // Route untuk halaman utama
 app.get('/', (req, res) => {
